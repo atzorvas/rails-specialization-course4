@@ -15,9 +15,10 @@ body {
 
 .box-heading {
     float: right;
-    padding: 2px 30px;
+    padding: 2px auto;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
+    min-width: 120px;
 }
 
 .box-content {
