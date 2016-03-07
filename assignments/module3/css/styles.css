@@ -1,0 +1,14 @@
+.box {
+    min-height: 600px;
+    background-color: #808080;
+    margin-bottom: 15px;
+}
+
+.box-heading {
+    font-weight: bold;
+}
+
+.navbar-fixed-top {
+    position: relative;
+    border-width: 0 0 1px;
+}
