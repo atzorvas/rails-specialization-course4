@@ -3,9 +3,9 @@ body {
 }
 
 .box {
-    min-height: 600px;
-    background-color: #808080;
+    min-height: 1000px;
     margin-bottom: 15px;
+    background-color: #808080;
 }
 
 .box-heading {
